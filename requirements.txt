@@ -1,0 +1,31 @@
+# ***************************************
+# 🎉 Welcome to the Automated Testing Project! 🎉
+# ---------------------------------------
+# Here are the Python dependencies for the project:
+#
+# Make sure you have the best setup for the perfect automation experience!
+# *****************************************
+
+# 🔧 Essential Packages for Playwright Testing
+playwright==1.22.0  # Playwright for automated browser testing 🧑‍💻
+
+# 🧪 Test Automation & Frameworks
+pytest==7.3.0  # The mighty testing framework 🧙‍♂️
+pytest-playwright==0.3.0  # Playwright integration for Pytest 🔥
+
+# 💻 API Testing & HTTP Requests
+requests==2.28.1  # For making API requests 🚀
+
+# 🚀 Performance Testing
+aiohttp==3.8.1  # Asynchronous HTTP requests for load testing 📈
+locust==2.10.1  # Powerful load testing tool 💨
+
+# 🛠️ Tools for Managing Dependencies
+pip==23.0.1  # Ensures that your pip is always up-to-date 🔄
+
+# 🔐 Security and Authentication
+pycryptodome==3.15.0  # Secure encryption for sensitive data 🔐
+
+# ***********************************************
+# 🎯 Enjoy automating, testing, and exploring! 🎯
+# ***********************************************
